@@ -7,4 +7,4 @@ Demonstrating an understanding of HTML
 
 Project can be viewed live using github pages!
 
-https://candyslug.github.io/odin-recipes/index.html
+https://davlondev.github.io/odin-recipes/index.html
